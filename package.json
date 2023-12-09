@@ -1,0 +1,19 @@
+{
+  "name": "curso-de-programacion",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicolasc1212/Curso-de-programacion.git"
+  },
+  "author": "Nicolas Cardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasc1212/Curso-de-programacion/issues"
+  },
+  "homepage": "https://github.com/nicolasc1212/Curso-de-programacion#readme"
+}
